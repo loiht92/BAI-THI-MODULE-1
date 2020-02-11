@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eeae915-2b58-44b3-8953-2220fa4d2da4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xb2I8Zeu5wnMNwtAPQ4Xwaqwg5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eeae915-2b58-44b3-8953-2220fa4d2da4" name="Default Changelist" comment="" />
+      <created>1581300391432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581300391432</updated>
+      <workItem from="1581300396019" duration="127000" />
+      <workItem from="1581300547274" duration="248000" />
+      <workItem from="1581300844084" duration="38000" />
+      <workItem from="1581300901370" duration="19000" />
+      <workItem from="1581300944920" duration="47000" />
+      <workItem from="1581301007266" duration="198000" />
+      <workItem from="1581301241495" duration="181000" />
+      <workItem from="1581301444772" duration="136000" />
+      <workItem from="1581301612616" duration="812000" />
+      <workItem from="1581302574566" duration="159000" />
+      <workItem from="1581302763567" duration="2382000" />
+      <workItem from="1581305294576" duration="36000" />
+      <workItem from="1581305341424" duration="55000" />
+      <workItem from="1581305408439" duration="1884000" />
+      <workItem from="1581307389203" duration="359000" />
+      <workItem from="1581308152879" duration="213000" />
+      <workItem from="1581312692628" duration="246000" />
+      <workItem from="1581313058914" duration="1070000" />
+      <workItem from="1581314320628" duration="782000" />
+      <workItem from="1581317846516" duration="44000" />
+      <workItem from="1581319088621" duration="34000" />
+      <workItem from="1581343359958" duration="401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
